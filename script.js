@@ -9359,7 +9359,7 @@ function createDom_469768477() {
     add_1459618507(tmp_469768480, tmp_469768481);
     var tmp_469768482 = tree_1459618570(24, []);
     var tmp_469768483 = tree_1459618570(63, []);
-    add_1459618507(tmp_469768483, text_1459618622(makeNimstrLit("DFA Simulation")));
+    add_1459618507(tmp_469768483, text_1459618622(makeNimstrLit("DFA Minimization")));
     add_1459618507(tmp_469768482, tmp_469768483);
     add_1459618507(tmp_469768480, tmp_469768482);
     add_1459618507(tmp_469768479, tmp_469768480);
