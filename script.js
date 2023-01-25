@@ -9344,7 +9344,6 @@ function createDom_469768477() {
       break;
     case 0:
       add_1459618507(tmp_469768481, navbtn_469768516(makeNimstrLit("new state"), 0, enterPlaceState_469763802));
-      add_1459618507(tmp_469768481, navbtn_469768516(makeNimstrLit("run"), 2, enterPlayTerms_469765197));
       add_1459618507(tmp_469768481, spacex_1711276148(2));
       add_1459618507(tmp_469768481, navbtn_469768516(makeNimstrLit("minimize"), 4, minimize_469767266));
       add_1459618507(tmp_469768481, navbtn_469768516(makeNimstrLit("load"), 3, load_469767286));
