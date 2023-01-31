@@ -164,12 +164,12 @@ def stateSame(ls_temp, ls_temp2, ls_state):
                 temp_list.append(jj[0])
                 ls_temp2_copy.pop(j)
             
-            # Nếu không kiểm tra với trạng thái tiếp theo
+
             elif temp_check_list1 != len(ii[1]):
                 j += 1
         
         # add new class to partition
-        # thêm lớp mới vào phân vùng
+
         if len(temp_list) == 1:
             ls_same_partition.append([ii[0]])
         elif len(temp_list) != 1:
